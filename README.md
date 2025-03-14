@@ -96,7 +96,7 @@
       ```
     - **CLI Mode:**  
       ```sh
-      ./dist/opl-artwork-processor ./artwork ./output 1 512x736
+      ./dist/opl-artwork-processor ./artwork ./output "_COV" 512x736
       ```
 
 ---
