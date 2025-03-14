@@ -4,6 +4,9 @@
 ## Installation
 
 1. Install [Python 3 and pip](https://python.org).
+    ```sh
+    sudo apt install -y python3-full python3-pip
+    ```
 
 2. Clone the repository:
     ```sh
