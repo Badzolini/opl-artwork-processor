@@ -1,13 +1,16 @@
 # OPL Artwork Processor
 
 
-## Table of Contents
-
 ## Installation
 
 1. Install [python3 and pip3](https://python.org).
 
-2. Install the required packages:
+2. Clone the repository:
+    ```sh
+    git clone https://github.com/EEkebin/opl-artwork-processor.git
+    ```
+
+3. Install the required packages:
     ```sh
     pip3 install -r requirements.txt
     ```
