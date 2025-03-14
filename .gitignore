@@ -2,3 +2,4 @@ LOG.TXT
 **/build/
 **/dist/
 **/*.spec
+**/venv/
