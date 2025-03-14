@@ -1,5 +1,18 @@
 # OPL Artwork Processor
 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+  - [Using the GUI](#using-the-gui)
+  - [Using the CLI](#using-the-cli)
+- [Building the Executable](#building-the-executable)
+- [Notes](#notes)
+- [Credits](#credits)
+
+
 ## Installation
 
 1. Install [Python 3 and pip](https://python.org).
@@ -108,3 +121,10 @@
 - The **GUI mode** will launch by default if no arguments are provided.
 - **CLI mode** allows automation and scripting by passing the required parameters.
 - The **Abort button** in the GUI stops processing safely, and **Ctrl+C** works in CLI mode to immediately terminate the process.
+
+
+## Credits
+
+[EEkebin](https://github.com/EEkebin)
+
+[Badza](https://github.com/Badzolini) - For the idea and help.
