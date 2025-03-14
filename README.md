@@ -51,5 +51,5 @@
 
 2. Build the executable:
     ```sh
-    pyinstaller --onefile --windowed --hidden-import=PIL opl-artwork-processor-gui.py
+    pyinstaller --onefile --windowed --hidden-import=PIL opl-artwork-processor.py
     ```
