@@ -1,6 +1,5 @@
 # OPL Artwork Processor
 
-
 ## Installation
 
 1. Install [Python 3 and pip](https://python.org).
