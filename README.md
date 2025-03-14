@@ -16,9 +16,9 @@
     ```
 
 
-## Running the script
+## Running the script using CLI
 
 1. Run the script:
     ```sh
-    python3 main.py <path_to_opl_artwork> <path_to_output_directory> <suffix>
+    python3 opl-artwork-processor.py <path_to_opl_artwork> <path_to_output_directory> <suffix>
     ```
