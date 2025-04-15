@@ -121,7 +121,7 @@
 - The **GUI mode** will launch by default if no arguments are provided.
 - **CLI mode** allows automation and scripting by passing the required parameters.
 - The **Abort button** in the GUI stops processing safely, and **Ctrl+C** works in CLI mode to immediately terminate the process.
-
+- The recommended resolution is  300x480 which was tested using the **USB** and the **MMCE**
 
 ## Credits
 
