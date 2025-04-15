@@ -125,6 +125,6 @@
 
 ## Credits
 
-[EEkebin](https://github.com/EEkebin)
+[EEkebin](https://github.com/EEkebin) For the code.
 
 [Badza](https://github.com/Badzolini) - For the idea and help.
